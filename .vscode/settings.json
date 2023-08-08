@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.pug": "jade",
+    "iostream": "cpp"
+  }
+}
